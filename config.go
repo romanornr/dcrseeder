@@ -10,8 +10,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/decred/dcrd/chaincfg"
-	"github.com/decred/dcrd/dcrutil"
+	"github.com/viacoin/viad/chaincfg"
+	"github.com/viacoin/viad/viautil"
 	flags "github.com/jessevdk/go-flags"
 )
 

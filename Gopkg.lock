@@ -41,7 +41,7 @@
   revision = "56c501706f00d9e1cfacee19a27117e12da24734"
 
 [[projects]]
-  name = "github.com/decred/dcrd"
+  name = "github.com/viacoin/viad"
   packages = [
     "blockchain",
     "blockchain/internal/dbnamespace",

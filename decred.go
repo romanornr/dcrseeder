@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/decred/dcrd/peer"
-	"github.com/decred/dcrd/wire"
+	"github.com/viacoin/viad/peer"
+	"github.com/viacoin/viad/wire"
 )
 
 const (
